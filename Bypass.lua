@@ -292,6 +292,3 @@ end
 if game.PlaceId ~= 2788229376 then
     Interceptor.Initialize()
 end 
-if game.PlaceId == 94310900510137 then
-    Interceptor.Initialize() 
-end
